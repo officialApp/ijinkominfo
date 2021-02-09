@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "404.html"
   },
   {
-    "revision": "1f512c5cb84862213e35cfe0d1d5af05",
+    "revision": "13f7dee181420c9f3c2fd12745bd7999",
     "url": "apple-touch-icon.png"
   },
   {
-    "revision": "061f63e8fbf1d2fe82cd8bf4d46f0a0c",
+    "revision": "a493ba0aa0b8ec8068d786d7248bb92c",
     "url": "browserconfig.xml"
   },
   {
@@ -52,15 +52,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/page-lembur-history-laporan.7672ee5a.css"
   },
   {
-    "revision": "4f4f8967d594d56b021ca4ab4977b0bf",
+    "revision": "0f2c9b9e6b865e863f00739993cc0e19",
     "url": "favicon-16x16.png"
   },
   {
-    "revision": "392f5aef65b7224663140666b6262f5e",
+    "revision": "beb1812ff7e02d2b1f8a0b50a736225c",
     "url": "favicon-32x32.png"
   },
   {
-    "revision": "bb56ee978ba8ccd7a445cb51ebe4a35f",
+    "revision": "a99d8c4a0e70dacc137fd25e8b2fe35e",
     "url": "favicon.ico"
   },
   {
@@ -148,11 +148,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/fa-solid-900.0ffddc07.svg"
   },
   {
-    "revision": "40348d7d6b7208c5d939405d829a2257",
+    "revision": "c445b10de335e1f96c600c4c4ce691cb",
     "url": "img/icons/android-chrome-192x192.png"
   },
   {
-    "revision": "4e8945b09132396702c6d3d8d6663ed5",
+    "revision": "f13995ce4bf7ef52022ce7b5ef703061",
     "url": "img/icons/android-chrome-512x512.png"
   },
   {
@@ -408,7 +408,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-tugas.84f1b9d4.js"
   },
   {
-    "revision": "04dd4a6b374852a7830cab7d67e21f62",
+    "revision": "0a5894ab2640ab2ccc55bf43ae146f0a",
     "url": "mstile-150x150.png"
   },
   {
@@ -416,7 +416,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "robots.txt"
   },
   {
-    "revision": "b10bf91f0d794a46abdee28c7bdf69e2",
+    "revision": "d7a30b827107cd06abbc916981945290",
     "url": "safari-pinned-tab.svg"
   }
 ]);
